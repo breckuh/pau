@@ -2,9 +2,9 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 
 # site settings
 title: pau
-subtitle: medical records done right
+subtitle: medical records solved
 email: yunits@hawaii.edu
-description: pau is a new language for storing medical records developed at the University of Hawaii Cancer Center<br /> and released to the public domain.
+description: pau is a new grammar for storing medical records developed at the University of Hawaii Cancer Center and released to the public domain.
 author:
 street_address: 701 Ilalo St
 city: Honolulu

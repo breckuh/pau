@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Pau. Medical records done right.'
+landing-title: 'Pau. Medical records solved.'
 description: null
 image: null
 author: null
